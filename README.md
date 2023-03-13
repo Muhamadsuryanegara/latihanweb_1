@@ -1,6 +1,5 @@
 # latihanweb_1
 
-# Latihanweb1
 
 # Tugas Pemograman Web 2 (Layout Sederhana)
 ## Profil
